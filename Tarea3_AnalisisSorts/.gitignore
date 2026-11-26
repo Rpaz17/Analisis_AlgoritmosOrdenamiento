@@ -5,7 +5,6 @@ sorts.exe
 *.o
 
 # Resultados de trabajo: se sube solo el backup
-results.csv
 results_backup.csv
 
 # Archivos del editor y del sistema
