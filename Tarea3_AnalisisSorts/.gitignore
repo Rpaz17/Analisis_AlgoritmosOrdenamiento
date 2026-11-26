@@ -6,8 +6,7 @@ sorts.exe
 
 # Resultados de trabajo: se sube solo el backup
 results.csv
-*.csv
-!results_backup.csv
+results_backup.csv
 
 # Archivos del editor y del sistema
 .vscode/
